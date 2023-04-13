@@ -4,7 +4,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 999;
-    color: white;
+    color: #FF5733;
 }
 
 .header-escritorio{
@@ -34,7 +34,7 @@ header {
 
 .header-nav a:hover {
     border-bottom: 2px solid #ffffff;
-    color: #ffffff;
+    color: #FF5733;
     transition-duration: 100ms;
 }
 
